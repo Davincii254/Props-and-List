@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import ReactDOM from 'react-dom';
 
 // Component to display a single item
 const ListItem = ({ item }) => {
